@@ -19,7 +19,7 @@ Assuming you have Ruby/Rubygems installed, you need portaudio and mpg123 as
 library to compile the native extensions.
 
 ### OSX
-
+    rvm pkg install libyaml
     brew install portaudio
     brew install mpg123
     gem install soundcloud2000
